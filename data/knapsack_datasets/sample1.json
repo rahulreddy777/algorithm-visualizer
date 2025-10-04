@@ -1,0 +1,9 @@
+{
+  "capacity": 15,
+  "items": [
+    { "value": 10, "weight": 2 },
+    { "value": 10, "weight": 5 },
+    { "value": 12, "weight": 8 },
+    { "value": 18, "weight": 4 }
+  ]
+}
